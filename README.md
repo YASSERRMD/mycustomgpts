@@ -1,6 +1,26 @@
 # My Custom GPTs
 
-This repository contains a collection of custom GPTs developed for various purposes.
+# My Custom GPTs
+
+**This repository showcases a diverse range of custom-trained GPT models, demonstrating the potential of AI to solve problems and improve productivity. Explore the categories below to discover how these GPTs can make your life easier, and feel free to contribute to their development!**
+
+## Table of Contents
+
+* [Programming Assistants](#programming-assistants)
+    * [Web Development Assistants](#web-development-assistants)
+    * [Mobile Development Assistants](#mobile-development-assistants)
+    * [Database Assistants](#database-assistants)
+    * [General Programming Tools](#general-programming-tools)
+* [Career and Job Search](#career-and-job-search)
+* [Legal & Compliance](#legal-compliance)
+    * [Legal & Compliance (India)](#legal-compliance-india)
+    * [Legal & Compliance (UAE)](#legal-compliance-uae)
+* [Cloud & Infrastructure](#cloud-infrastructure)
+* [Project Management & Agile](#project-management-agile) 
+* [Education & Tutorials](#education-tutorials) 
+* [Other](#other)
+* [Contributing](#contributing) 
+* [License](#license)
 
 ## Programming Assistants
 
