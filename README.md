@@ -1,6 +1,6 @@
 # My Custom GPTs
 
-**This repository showcases a diverse range of custom-trained GPT models, demonstrating the potential of AI to solve problems and improve productivity. Explore the categories below to discover how these GPTs can make your life easier, and feel free to contribute to their development!**
+**This repository contains a collection of my custom GPTs designed to assist with various tasks, from programming to legal guidance. Explore the different categories below to find the GPT that best suits your needs.**
 
 ## Table of Contents
 
