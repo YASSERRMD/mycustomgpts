@@ -23,3 +23,16 @@
 | <div class="gizmo-shadow-stroke overflow-hidden rounded-full"><img src="https://files.oaiusercontent.com/file-evUCOfkS4S7bpNynykx7lEBf?se=2123-10-17T18%3A55%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc9b9ef5e-1b11-45c1-8512-5d2930d133a4.png&sig=FugU0l2xi36qJcraiJH/PyEmTlfNsbPbBswruhIe5M8%3D" class="h-full w-full bg-token-main-surface-secondary" alt="GPT" width="30" height="30"></div> | Trending AI | Engagingly shares accessible AI trends with Bing insights | [Open Trending AI](http://chatgpt.com/g/g-MIzdMXtyT-trending-ai) |
 | <div class="gizmo-shadow-stroke overflow-hidden rounded-full"><img src="https://files.oaiusercontent.com/file-wsPGamrPVMRc1dNnBuvfXJ3Q?se=2123-12-11T04%3A30%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3D52fc97aa-bbd2-4420-8ff5-e30d64a0a631.png&sig=XonpUpffj6f7uMbvfOEekzxnIU00b4McWDd%2Bd9k/j5A%3D" class="h-full w-full bg-token-main-surface-secondary" alt="GPT" width="30" height="30"></div> | Presentation Generator | Generates PowerPoint files with analytics focus | [Open Presentation Generator](http://chatgpt.com/g/g-gtmf69Kgy-presentation-generator) | 
 
+
+
+**Business & Finance**
+
+| Icon | GPT Name | Description | Link |
+|---|---|---|---|
+| <div class="gizmo-shadow-stroke overflow-hidden rounded-full"><img src="https://files.oaiusercontent.com/file-vPEvseKVA5ttEh1UcsNQgXYX?se=2123-11-06T10%3A57%3A23Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscc=max-age%3D31536000%2C%20immutable&amp;rscd=attachment%3B%20filename%3Dddb02991-a369-4e5d-804a-1024b22cd69a.png&amp;sig=PJWyZ1AbZLQXgJCMmq3P6CK/M23EVsyBM/6kfE7xXNU%3D" class="h-full w-full bg-token-main-surface-secondary" alt="GPT" width="30" height="30"></div> | Global Currency Exchange | Streamlined currency conversion information | [Open Global Currency Exchange](http://chatgpt.com/g/g-8srGDdqBl-global-currency-exchange) |
+| <div class="gizmo-shadow-stroke overflow-hidden rounded-full"><img src="https://files.oaiusercontent.com/file-o1dBg8czpVgPilt5AVU7Oyh6?se=2123-11-05T16%3A31%3A53Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscc=max-age%3D31536000%2C%20immutable&amp;rscd=attachment%3B%20filename%3D20ddc001-9acf-4b18-95ab-7a84b0a04e78.png&amp;sig=pnizSQ1ErROTdqIvoXM7/s4mQCiL7jiJk7mkgnCxeuw%3D" class="h-full w-full bg-token-main-surface-secondary" alt="GPT" width="30" height="30"></div> | UAE VAT Assistant | Friendly guide for UAE VAT based on documents. | [Open UAE VAT Assistant](http://chatgpt.com/g/g-5YPN8b5eN-uae-vat-assistant) |
+| <div class="gizmo-shadow-stroke overflow-hidden rounded-full"><img src="https://files.oaiusercontent.com/file-w03RGpAC8vj7xzRerrek9Hq6?se=2123-10-30T19%3A02%3A45Z&amp;sp=r&amp;sv=2021-08-06&amp;sr=b&amp;rscc=max-age%3D31536000%2C%20immutable&amp;rscd=attachment%3B%20filename%3D8d1aa770-3c3c-4214-b3f5-7b5da68e63fe.png&amp;sig=svrV6CQb0HwvdpHkfudddlQI19aBzTyS8fx8aLOScmk%3D" class="h-full w-full bg-token-main-surface-secondary" alt="GPT" width="30" height="30"></div> | Business Process Architecture | Guides users in creating BPMN diagrams using PiperFlow syntax. | [Open Business Process Architecture](http://chatgpt.com/g/g-vfknxHexk-business-process-architecture) | 
+
+
+
+
