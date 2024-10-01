@@ -19,8 +19,7 @@
 * [Project Management & Agile](#project-management-agile) 
 * [Education & Tutorials](#education-tutorials) 
 * [Other](#other)
-* [Contributing](#contributing) 
-* [License](#license)
+
 
 ## Programming Assistants
 
