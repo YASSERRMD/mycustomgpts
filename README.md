@@ -47,6 +47,13 @@ This repository contains a collection of custom GPTs developed for various purpo
 
 ## Legal & Compliance
 
+### Legal & Compliance (UAE)
+
+| GPT Name              | Description                                     | Link |
+|-----------------------|-------------------------------------------------|------|
+| <img src="https://files.oaiusercontent.com/file-xvhd2z5G5YK624UNgJsJZqDV?se=2123-10-21T15%3A44%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4ee21378-1611-4043-9778-3c0737a5ba66.png&sig=Caub/2pBEcbCV4cBUuEorNHL6ccve3JawlvzDXZRGY0%3D" width="20" height="20"> UAE Labour Law Guide  | Friendly guide on UAE Labour Law, balancing simplicity with detail | [https://chat.openai.com/g/g-7xpfLONqC-uae-labour-law-guide](https://chat.openai.com/g/g-7xpfLONqC-uae-labour-law-guide) | 
+| <img src="https://files.oaiusercontent.com/file-o1dBg8czpVgPilt5AVU7Oyh6?se=2123-11-05T16%3A31%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20ddc001-9acf-4b18-95ab-7a84b0a04e78.png&sig=pnizSQ1ErROTdqIvoXM7/s4mQCiL7jiJk7mkgnCxeuw%3D" width="20" height="20"> UAE VAT Assistant     | Friendly guide for UAE VAT based on documents.            | [https://chat.openai.com/g/g-5YPN8b5eN-uae-vat-assistant](https://chat.openai.com/g/g-5YPN8b5eN-uae-vat-assistant) |
+
 ### Legal & Compliance (India)
 
 | GPT Name                  | Description                                      | Link |
